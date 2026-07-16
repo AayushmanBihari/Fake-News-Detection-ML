@@ -9,9 +9,11 @@ Technologies Used
 - Python
 - Pandas
 - NumPy
+- Regular Expression (Regex)
 - Scikit-learn
 - TF-IDF Vectorizer
 - Multinomial Naive Bayes
+- NLP
 - Google Colab
 - Jupyter Notebook
 
