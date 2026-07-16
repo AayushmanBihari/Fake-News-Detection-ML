@@ -30,4 +30,4 @@ Dataset
 
 Author
 
-Aayushman Rai# Fake-News-Detection-ML
+Aayushman Bihari #Fake-News-Detection-ML
